@@ -1,4 +1,4 @@
-# Benchmark of different read-only list interfaces
+# Comparing different read-only list interfaces
 
 ```
 BenchmarkDotNet v0.13.10, Windows 11 (10.0.22631.3155/23H2/2023Update/SunValley3)
